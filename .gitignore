@@ -1,4 +1,18 @@
-﻿*.class
-out/
+﻿# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
 target/
+out/
+build/
+
+# IntelliJ
 .idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
